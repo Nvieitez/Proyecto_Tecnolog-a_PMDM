@@ -62,7 +62,8 @@ Finalmente la mayor dificultad fue conseguir que el programa se mostrase correct
 
     - Primera versión:
 
-      La primera versión era crear una app la cual contaba con función de música multimedia, la cual fue desechada por tiempo y por falta de composición del código
+      La primera versión era crear una app la cual contaba con función de música multimedia, 
+      la cual fue desechada por tiempo y por falta de composición del código
 
 ![Imagen del diagrama inicial](/PMDM_Images/DiagramaInicial.jpg)
 
@@ -70,7 +71,7 @@ Finalmente la mayor dificultad fue conseguir que el programa se mostrase correct
 
       La versión final solo cuenta con un mapa que se puede mover para buscar diferentes localizaciones y lugares
 
-![Imagen del programa final]()
+![Imagen del programa final](/PMDM_Images/EmuladorConCodigo.jpg)
 
 # 5. Mejoras
 
