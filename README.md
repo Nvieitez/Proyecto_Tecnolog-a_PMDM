@@ -15,10 +15,10 @@ Para dividir el proyecto en partes más pequeñas y manejables, determinamos un 
 
 Como determiné antes, el primer paso fue encontrar e implementar una API de mapas funcional que nos permita acceder a mapas no registrados de manera local.
 
-![Imagen de implementación de la API 1]()
-![Imagen de implementación de la API 2]()
-![Imagen de implementación de la API 3]()
-![Imagen de implementación de la API 4]()
+![Imagen de implementación de la API 1](/PMDM_Images/ImplementacionAPI.png)
+![Imagen de implementación de la API 2](/PMDM_Images/ImplementacionAPI2.png)
+![Imagen de implementación de la API 3](/PMDM_Images/ImplementacionAPI3.png)
+![Imagen de implementación de la API 4](/PMDM_Images/ImplementacionAPI4.png)
 
 >[!IMPORTANT]
 >2. Imprimir el mapa
