@@ -25,7 +25,7 @@ Como determiné antes, el primer paso fue encontrar e implementar una API de map
 
 Otro de los objetivos era mostrar el mapa correctamente en el entorno virtualizado, sin cortes en las imágenes y bien centrado en la pantalla.
 
-![Imagen del programa funcionando en la App]()
+![Imagen del programa funcionando en la App](/PMDM_Images/PantallazoMapa.png)
 
 >[!IMPORTANT]
 >3. Hacer que el programa funcione en vivo
@@ -64,7 +64,7 @@ Finalmente la mayor dificultad fue conseguir que el programa se mostrase correct
 
       La primera versión era crear una app la cual contaba con función de música multimedia, la cual fue desechada por tiempo y por falta de composición del código
 
-![Imagen del diagrama inicial]()
+![Imagen del diagrama inicial](/PMDM_Images/DiagramaInicial.jpg)
 
     - Versión final:
 
